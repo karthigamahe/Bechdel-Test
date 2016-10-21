@@ -1,2 +1,24 @@
-# Bechdel-Test
-The Bechdel test for tamil cinimas asks whether a work of fiction features at least two women who talk to each other about something other than a man.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
